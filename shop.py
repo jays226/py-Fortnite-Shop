@@ -207,6 +207,7 @@ def makeImage(shop, ad1, ad2, fileLocation):
         print(crayons.green(f"Shop Image Saved as: itemshop_{day2}.png"))
     except:
         print(crayons.red("Error: Incorrect File Path (Set a file path in config.json or leave blank)"))
+        img.thumbnail((1080, 1080))
         img.save(f"./itemshop_{day2}.png")
         print(crayons.green(f"Shop saved instead to default folder as: itemshop_{day2}.png"))
     print(crayons.yellow(f"Created by AtomicXYZ"))
