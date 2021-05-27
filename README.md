@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/AtomicXYZ/py-Fortnite-Shop/blob/main/itemshop_May_26_2021-min.png" width="350px" draggable="false"></img>
+<img align="right" src="https://i.ibb.co/W6vTZSv/itemshop-May-26-2021-min.png" width="350px" draggable="false"></img>
 # py-Fortnite-Shop
 An open-source python project that generates a formatted image of the current Fortnite item shop.<br />
 This code can be implemented to be used on Discord bots, websites, applications, and much more!<br />
