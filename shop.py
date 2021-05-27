@@ -176,7 +176,7 @@ def makeImage(shop, ad1, ad2, fileLocation):
                 font = ImageFont.truetype("./assets/BurbankBigRegularBlack.otf", fsize)
                 nWidth, h = draw.textsize(name, font=font)
 
-            draw.text((itemX+450-(nWidth/2), itemY+itemImg.width-115), name, fill="white", font=font)
+            draw.text((itemX+450-(nWidth/2), itemY+itemImg.width-125), name, fill="white", font=font)
            
             
 
