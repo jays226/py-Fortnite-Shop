@@ -3,6 +3,8 @@
 An open-source python project that generates a formatted image of the current Fortnite item shop.<br />
 This code can be implemented to be used on Discord bots, websites, applications, and much more!<br />
 
+For support, join the Discord server: https://atomicxyz.tk/discord
+
 ## Usage
 1. Enter the following into the `config.json` file<br />
   a. Add your fortniteapi.io auth token to `auth` (get a key from: https://fortniteapi.io/)<br />
