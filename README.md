@@ -17,5 +17,5 @@ This image can be used on Discord bots, websites, applications, and much more!<b
 # Credits
 Rarity images from: [MattTheo](https://twitter.com/MattTheo_)<br />
 Inspired by ReconBot, Tornado, & Gomashio's item shop designs<br />
-FortniteAPi.io[https://fortniteapi.io/] for daily Item Shop data<br />
+[FortniteAPi.io](https://fortniteapi.io/) for daily Item Shop data<br />
 Created by AtomicXYZ<br />
