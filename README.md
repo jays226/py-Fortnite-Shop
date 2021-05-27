@@ -9,6 +9,7 @@ This image can be used on Discord bots, websites, applications, and much more!<b
   c. Add your 2nd watermark to `ad2` (this can be left blank)<br />
   d. Add the location on your computer where you would like to save your item shop image to `saveFileLocation` (this can be left blank)<br />
 2. Run the `run.bat` file<br />
+The item shop image will be saved to this folder or to a custom folder if `saveFileLocation` is not blank
 
 ## Requirements
 [Python 3](https://www.python.org/downloads/)<br />
