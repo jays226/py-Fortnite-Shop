@@ -20,7 +20,6 @@ def getShop(auth):
 
     querystring = {"lang":"en","renderData":"true"}
 
-    payload = "{\"grant_type\" : \"account_id\"}"
     headers = {
         'authorization': auth,
         }
