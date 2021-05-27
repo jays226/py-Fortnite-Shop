@@ -25,7 +25,7 @@ def getShop(auth):
         }
 
     try:
-        response = requests.request("GET", url, data=payload, headers=headers, params=querystring)
+        response = requests.request("GET", url, headers=headers, params=querystring)
         
         data = json.loads(response.text)
 
