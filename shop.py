@@ -176,7 +176,7 @@ def makeImage(shop, ad1, ad2, fileLocation):
                 font = ImageFont.truetype("./assets/BurbankBigRegularBlack.otf", fsize)
                 nWidth, h = draw.textsize(name, font=font)
 
-            draw.text((itemX+450-(nWidth/2), itemY+itemImg.width-100), name, fill="white", font=font)
+            draw.text((itemX+450-(nWidth/2), itemY+itemImg.width-115), name, fill="white", font=font)
            
             
 
@@ -201,7 +201,6 @@ def makeImage(shop, ad1, ad2, fileLocation):
     print(crayons.green("Loading Shop..."))
     day2 = today.strftime("%b_%d_%Y")
     print(crayons.green("Generated Shop!"))
-    img.thumbnail((1080, 1080))
     try:
         img.save(f"{fileLocation}/itemshop_{day2}.png")
         print(crayons.green(f"Shop Image Saved as: itemshop_{day2}.png"))
