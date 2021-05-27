@@ -1,6 +1,6 @@
 # py-Fortnite-Shop
 An open-source python project that generates a formatted image of the current Fortnite item shop.<br />
-This image can be used on Discord bots, websites, applications, and much more!<br />
+This code can be implemented to be used on Discord bots, websites, applications, and much more!<br />
 
 ## Usage
 1. Enter the following into the `config.json` file<br />
