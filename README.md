@@ -1,4 +1,4 @@
-<img align="right" src="https://imgur.com/a/LKQ6SSZ" width="350px" draggable="false"></img>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/LKQ6SSZ" data-context="false" ><a href="//imgur.com/a/LKQ6SSZ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 # py-Fortnite-Shop
 An open-source python project that generates a formatted image of the current Fortnite item shop.<br />
 This code can be implemented to be used on Discord bots, websites, applications, and much more!<br />
