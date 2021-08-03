@@ -19,7 +19,7 @@ For support, join the Discord server: https://atomicxyz.tk/discord
 [Fortnite API token](https://fortniteapi.io/)<br />
 
 ## Credits
-Inspired by ReconBot, Tornado, & Gomashio's item shop designs<br />
+Huge Credit to Tornado for this project: https://github.com/im2rnado/Fort-Shop<br />
 [MattTheo](https://twitter.com/MattTheo_) for rarity background images<br />
 [FortniteAPi.io](https://fortniteapi.io/) for daily Item Shop data<br />
 Created by AtomicXYZ<br />
