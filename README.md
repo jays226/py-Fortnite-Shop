@@ -18,8 +18,4 @@ For support, join the Discord server: https://atomicxyz.tk/discord
 [Python 3](https://www.python.org/downloads/)<br />
 [Fortnite API token](https://fortniteapi.io/)<br />
 
-## Credits
-Huge Credit to Tornado for this project: https://github.com/im2rnado/Fort-Shop<br />
-[MattTheo](https://twitter.com/MattTheo_) for rarity background images (from Tornado's project)<br />
-[FortniteAPi.io](https://fortniteapi.io/) for daily Item Shop data<br />
 <br />
